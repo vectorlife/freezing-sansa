@@ -26,7 +26,7 @@ namespace freezingsansa
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hellocfhhgfwerff World!");
+			Console.WriteLine ("Hello World!");
 		}
 	}
 }
