@@ -26,7 +26,7 @@ namespace freezingsansa
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello github.com");
+			Console.WriteLine ("Hello github");
 		}
 	}
 }
